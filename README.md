@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ratika-12
-- 👀 I’m interested in ...Development
-- 🌱 I’m currently learning ...Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on ...Open source projects
-- 📫 How to reach me ...12ratikaswami@gmail.com
+- 👀 I’m interested in Development
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 💞️ I’m looking to collaborate on OpenSource Projects
+- 📫 How to reach me 12ratikaswami@gmail.com
 
 <!---
 ratika-12/ratika-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

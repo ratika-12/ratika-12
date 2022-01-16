@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ratika-12
+- 👋 Hi, I’m Ratika Swami
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on OpenSource Projects

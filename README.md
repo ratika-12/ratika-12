@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ratika Swami
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on OpenSource Projects
+- 👀 I’m learning web development
+- 💞️ I actively contribute to open source projects
 - 📫 How to reach me 12ratikaswami@gmail.com
 - 😊 Pronouns: She/Her
 <!---
